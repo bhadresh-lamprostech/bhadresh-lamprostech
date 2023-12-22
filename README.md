@@ -1,4 +1,21 @@
-<h1 align="center">Hi 👋, I'm Bhadresh</h1>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Bhadresh</h1></summary>
+  </ul>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">🔗 Blockchain Developer Extraordinaire! 🚀 Passionate about shaping the future of decentralized technology through innovative blockchain solutions. Proficient in developing, deploying, and optimizing smart contracts on various blockchain platforms. Adept at creating secure and scalable decentralized applications (DApps) that leverage the power of distributed ledgers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhadresh-lamprostech&label=Profile%20views&color=0e75b6&style=flat" alt="bhadresh-lamprostech" /> </p>
